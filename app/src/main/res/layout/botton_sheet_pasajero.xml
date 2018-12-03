@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardElevation="10dp"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="30dp"
+        android:background="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum incolumis acies: misera caecitas. Vitiosum est enim in dividendo partem in genere numerare. Quodsi ipsam honestatem undique pertectam atque absolutam. Fortasse id optimum, sed ubi illud: Plus semper voluptatis? Facile est hoc cernere in primis puerorum aetatulis. Duo Reges: constructio interrete. Negat enim summo bono afferre incrementum diem. Ipse Epicurus fortasse redderet, ut Sextus Peducaeus, Sex. Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit. "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum incolumis acies: misera caecitas. Vitiosum est enim in dividendo partem in genere numerare. Quodsi ipsam honestatem undique pertectam atque absolutam. Fortasse id optimum, sed ubi illud: Plus semper voluptatis? Facile est hoc cernere in primis puerorum aetatulis. Duo Reges: constructio interrete. Negat enim summo bono afferre incrementum diem. Ipse Epicurus fortasse redderet, ut Sextus Peducaeus, Sex. Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit. "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum incolumis acies: misera caecitas. Vitiosum est enim in dividendo partem in genere numerare. Quodsi ipsam honestatem undique pertectam atque absolutam. Fortasse id optimum, sed ubi illud: Plus semper voluptatis? Facile est hoc cernere in primis puerorum aetatulis. Duo Reges: constructio interrete. Negat enim summo bono afferre incrementum diem. Ipse Epicurus fortasse redderet, ut Sextus Peducaeus, Sex. Sic vester sapiens magno aliquo emolumento commotus cicuta, si opus erit, dimicabit. "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
